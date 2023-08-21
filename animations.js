@@ -1,9 +1,9 @@
 export const leftAnim = [
-  { transform: "translate(-100%)" },
+  { transform: "translate(-300%)" },
   { transform: "translate(0%)" },
 ];
 export const rightAnim = [
-  { transform: "translate(100%)" },
+  { transform: "translate(300%)" },
   { transform: "translate(0%)" },
 ];
 
